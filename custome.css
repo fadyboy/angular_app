@@ -1,0 +1,17 @@
+/* Custom css styles */
+
+label {
+    font-size: 1.1em;
+    padding-top: 5px;
+    color: #5cb85c;
+}
+
+h1 {
+    color: #5cb85c;
+}
+
+.alert {
+    margin-top: 10px;
+    width: 60%;
+    padding: 10px;
+}
